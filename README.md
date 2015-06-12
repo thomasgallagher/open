@@ -2,7 +2,9 @@
 
 An open source experiment to see what an open source political party might look like.
 
-The project will be hosted on GitHub and controlled by a committee.
+The project will begin life on GitHub and become a website with mobile apps.
+
+A committee could control any major project decisions.
 
 
 ## Feature 1
